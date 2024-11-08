@@ -1,0 +1,32 @@
+body {
+    background-color: #F3F2EF;
+}
+.navbar-brand img {
+    width: 100px;
+}
+.profile-info, .trending, .post {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.profile-info {
+    text-align: center;
+}
+.trending, .post {
+    margin-top: 20px;
+}
+.post-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.post-header img {
+    margin-right: 10px;
+}
+.post-content {
+    margin-bottom: 15px;
+}
+.post-actions button {
+    margin-right: 10px;
+}
